@@ -1,0 +1,51 @@
+.background {
+    background-image:url(./assets/wp5718453.jpg);
+    background-size: cover;
+}
+
+.title {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+
+.line {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    border: 2px solid white;
+}
+
+.info {
+    color: black;
+    text-align: center;
+}
+
+.parentDiv {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.card {
+    width: 17rem;
+    height: 372px;
+    display: inline-block;
+    margin: 20px;
+    overflow: auto;
+}
+
+.card-title {
+    padding: 5px 10px 5px;
+    margin: 0px 0px 0px;
+}
+
+.card-body {
+    padding-top: 0px;
+}
+
+.card-img-top {
+    height: 200px;
+}
