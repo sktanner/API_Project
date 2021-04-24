@@ -72,7 +72,7 @@ wrapper.appendChild(card)
             card_image.src = "./assets/muta.jpg";
             break
         case "Baron Humbert von Gikkingen":
-            card_image.src = "/assets/Humbert.jpg";
+            card_image.src = "./assets/Humbert.jpg";
             break
         case "Sosuke":
             card_image.src = "./assets/sosuke.jpg";
