@@ -72,7 +72,7 @@ wrapper.appendChild(card)
             card_image.src = "./assets/muta.jpg";
             break
         case "Baron Humbert von Gikkingen":
-            card_image.src = "./assets/humbert.jpg";
+            card_image.src = "./assets/Humbert.jpg";
             break
         case "Sosuke":
             card_image.src = "./assets/sosuke.jpg";
@@ -81,7 +81,7 @@ wrapper.appendChild(card)
             card_image.src = "./assets/porco.jpg";
             break
         case "San":
-            card_image.src = "./assets/san.jpg";
+            card_image.src = "./assets/San.jpg";
             break
         case "Mei Kusakabe":
             card_image.src = "./assets/mei.jpg";
@@ -128,7 +128,7 @@ wrapper.appendChild(card)
         case "Uncle Pom":
             card_image.src = "./assets/Uncle_Pom.png";
             break
-            case "Kanta Ogaki":
+        case "Kanta Ogaki":
             card_image.src = "./assets/Kanta.jpg";
             break
         case "Hii-sama":
@@ -147,7 +147,7 @@ wrapper.appendChild(card)
             card_image.src = "./assets/chibi_totoro.jpg";
             break
         case "Yakul":
-            card_image.src = "./assets/yakul.jpg";
+            card_image.src = "./assets/Yakul.jpg";
             break
         case "Louis":
             card_image.src = "./assets/louis.jpg";
@@ -159,7 +159,7 @@ wrapper.appendChild(card)
             card_image.src = "./assets/charles.jpg";
             break
         case "Moro":
-            card_image.src = "./assets/moro.jpg";
+            card_image.src = "./assets/Moro.jpg";
             break
         case "Catbus":
             card_image.src = "./assets/catbus.jpeg";
@@ -168,10 +168,10 @@ wrapper.appendChild(card)
             card_image.src = "./assets/romska.jpg";
             break
         case "Henri":
-            card_image.src = "./assets/Henri.jpg";
+            card_image.src = "./assets/henri.jpg";
             break
         case "Motro":
-            card_image.src = "./assets/Motro.jpg";
+            card_image.src = "./assets/motro.png";
             break
         case "Okami":
             card_image.src = "./assets/Okami.jpg";
