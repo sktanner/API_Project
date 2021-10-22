@@ -176,6 +176,9 @@ wrapper.appendChild(card)
         case "Okami":
             card_image.src = "./assets/Okami.jpg";
             break
+
+        default:
+            card_image.src = "./assets/default.png";
     }
 })
 }}
